@@ -1,0 +1,6 @@
+module Pods_CognitoIntegration_CognitoIntegrationTests {
+  umbrella header "Pods-CognitoIntegration-CognitoIntegrationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

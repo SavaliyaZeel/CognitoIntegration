@@ -1,0 +1,6 @@
+module Pods_CognitoIntegration {
+  umbrella header "Pods-CognitoIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
